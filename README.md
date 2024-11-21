@@ -62,6 +62,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 Contact
 For any questions or issues, reach out at uvherath@gmail.com.
-
-
-Let me know if you need additional customizations!
